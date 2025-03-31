@@ -8,5 +8,8 @@
 🌷 let's connect and explore together.<br/>
 💭 Currently learning about data analytics and dataviz!<br/>
 
-
+#### 💻My Github Stats!
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarpriyank10100&show_icons=true&theme=radical)
+#### 💻Tech Stack!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
