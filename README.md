@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
-👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
-🎨 Making videos about Computer Science, tech, and productivity on YouTube
-🌷 #learninginpublic in my digital garden
-💭 Currently learning about data analytics and dataviz!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech. <br/>
+👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand.<br/>
+🎨 Making videos about Computer Science, tech, and productivity on YouTube.<br/>
+🌷 #learninginpublic in my digital garden.<br/>
+💭 Currently learning about data analytics and dataviz!<br/>
 -->
