@@ -1,21 +1,26 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f06292;">Priyanshu</span>!</h1>
 
-<p align="center">
-🎓 <b>Chemical Engineering Student</b> @ <strong>MNNIT Allahabad</strong>  
-<br>💡 Tech-Driven • Data-Inspired • Engineer by Training  
-<br>📈 Building at the intersection of Engineering, Analytics & Design  
-<br>🏸 Passionate about badminton • mentoring • problem-solving  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</p>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p>
+        🎓 <b>Chemical Engineering Student</b> @ <strong>MNNIT Allahabad</strong><br>
+        💡 Tech-Driven • Data-Inspired • Engineer by Training<br>
+        📈 Building at the intersection of Engineering, Analytics & Design<br>
+        🏸 Passionate about Badminton • Coding • Problem-solving<br>
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 About Me
 
-🔬 Pre final-year undergraduate passionate about **solving real-world problems with data**  
+🔬 Pre final-year undergraduate passionate about **solving real-world problems with data**
 🧠 Exploring technologies in **Data Analytics**, **BI Tools**, and **Web Development**  
 🧪 Curious about innovations in **sustainability**, **chemical processing**, and **education tech**  
 🌱 Always learning and evolving with the community!
@@ -75,7 +80,6 @@
 ## 🤝 Let's Connect
 
 - 💬 Always open to talk about **data**, **tech**, **chemical engineering**, or **career paths**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kumarpriyank10100/)
 - 🌍 Let’s collaborate on **data-driven projects**, **dashboards**, or **portfolio development**
 
 ---
