@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🔬 Final-year undergraduate passionate about **solving real-world problems with data**  
+🔬 Third-year undergraduate passionate about **solving real-world problems with data**  
 🧠 Exploring technologies in **Data Analytics**, **BI Tools**, and **Web Development**  
 🧪 Curious about innovations in **sustainability**, **chemical processing**, and **education tech**  
 🌱 Always learning and evolving with the community!
