@@ -99,11 +99,11 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/priyanshu-kumar-b11924278/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="priyanshukrgupta01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   &nbsp;
