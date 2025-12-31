@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-🔬 Final-year undergraduate leveraging **Machine Learning** to optimize complex systems.  
+🔬 Pre-Final-year undergraduate leveraging **Machine Learning** to optimize complex systems.  
 🧠 Specialized in **Neural Networks**, **Computer Vision**, and **Large Language Models (LLMs)**.  
 🧪 Applying AI in **Sustainability** and **Chemical Process Modeling**.  
 ⚡ Building full-stack AI applications using **React** and **FastAPI/Flask**.
