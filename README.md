@@ -11,13 +11,13 @@
       </p>
       <p align="left">
         <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="mailto:your.email@example.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <a href="https://github.com/kumarpriyank10100">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </p>
     </td>
@@ -31,10 +31,10 @@
 
 ## 🚀 About Me
 
-🔬 Final-year undergraduate leveraging **Machine Learning** to optimize complex systems.  
-🧠 Specialized in **Neural Networks**, **LLMs**, and **RAG-based** applications.  
-🧪 Exploring the intersection of **Generative AI** and **Sustainability**.  
-🌱 Always learning and evolving with the community!
+🔬 Final-year undergraduate leveraging **Machine Learning** and **Deep Learning** to solve complex engineering problems.  
+🧠 Specialized in **Neural Networks**, **Computer Vision**, and **Large Language Models (LLMs)**.  
+🧪 Exploring the intersection of **Generative AI** and **Sustainability** in Chemical Processing.  
+🌱 Building end-to-end AI applications from data ingestion to frontend deployment.
 
 ---
 
@@ -42,34 +42,62 @@
 
 ### 🤖 Machine Learning & Deep Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### 🌌 Generative AI & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-### 📊 Data Visualization & Apps
+### 📊 Visualization & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-3E65A0?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🌐 Development Tools
+### 🌐 Full-Stack Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarpriyank10100&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" alt="Priyanshu's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarpriyank10100&layout=compact&theme=radical&border_radius=10" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kumarpriyank10100&theme=radical&border_radius=10" width="100%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🚀 Developing **RAG (Retrieval-Augmented Generation)** pipelines for technical documentation.
+- 🧪 Fine-tuning **Llama 3** and **Mistral** models for engineering-specific tasks.
+- 🏸 Improving my smash on the badminton court!
+
+---
+
+<p align="center">
+  <b>Let's build something intelligent together!</b><br>
+  <a href="mailto:your.email@example.com">Get in touch</a> • <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a>
+</p>
