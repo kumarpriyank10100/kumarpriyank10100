@@ -96,8 +96,26 @@
 - 🏸 Improving my smash on the badminton court!
 
 ---
+## 🤝 Let's Connect
 
 <p align="center">
-  <b>Let's build something intelligent together!</b><br>
-  <a href="mailto:your.email@example.com">Get in touch</a> • <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  </a>
+  &nbsp;
+  <a href="https://github.com/kumarpriyank10100">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35">
+  </a>
+</p>
+
+<p align="center">
+  ✨ <i>Open to collaborations in AI for Engineering and FinTech!</i> ✨
 </p>
