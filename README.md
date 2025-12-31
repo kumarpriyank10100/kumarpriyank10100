@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-🔬 Final-year undergraduate leveraging **Machine Learning** and **Deep Learning** to solve complex engineering problems.  
+🔬 Pre-Final year undergraduate leveraging **Machine Learning** and **Deep Learning** to solve complex engineering problems.  
 🧠 Specialized in **Neural Networks**, **Computer Vision**, and **Large Language Models (LLMs)**.  
 🧪 Exploring the intersection of **Generative AI** and **Sustainability** in Chemical Processing.  
 🌱 Building end-to-end AI applications from data ingestion to frontend deployment.
