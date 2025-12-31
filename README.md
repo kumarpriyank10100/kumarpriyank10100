@@ -73,17 +73,22 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarpriyank10100&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarpriyank10100&layout=compact&theme=radical&border_radius=10" width="48%" />
-</p>
-
 ---
 
+## 📈 Activity & Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarpriyank10100&theme=radical&border_radius=10" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarpriyank10100&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" alt="Priyanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarpriyank10100&layout=compact&theme=radical&hide_border=false" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarpriyank10100&theme=radical&hide_border=false" width="100%" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github-screens.vercel.app/api/snake?user=kumarpriyank10100&theme=dark" alt="Snake Animation" />
 </p>
 
 ---
