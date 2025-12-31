@@ -10,14 +10,11 @@
         🏸 Passionate about Badminton • Coding • Problem-solving<br>
       </p>
       <p align="left">
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+        <a href="https://linkedin.com/in/priyanshu-kumar-mnnit" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="mailto:your.email@example.com">
+        <a href="mailto:priyanshukrgupta01@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-        <a href="https://github.com/kumarpriyank10100">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </p>
     </td>
@@ -31,7 +28,7 @@
 
 ## 🚀 About Me
 
-🔬 Pre-Final-year undergraduate leveraging **Machine Learning** and **Deep Learning** to solve complex engineering problems.  
+🔬 Final-year undergraduate leveraging **Machine Learning** and **Deep Learning** to solve complex engineering problems.  
 🧠 Specialized in **Neural Networks**, **Computer Vision**, and **Large Language Models (LLMs)**.  
 🧪 Exploring the intersection of **Generative AI** and **Sustainability** in Chemical Processing.  
 🌱 Building end-to-end AI applications from data ingestion to frontend deployment.
@@ -58,7 +55,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-### 📊 Visualization & Tools
+### 📊 Data Visualization & Apps
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-3E65A0?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -72,7 +69,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
@@ -90,32 +86,22 @@
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Developing **RAG (Retrieval-Augmented Generation)** pipelines for technical documentation.
-- 🧪 Fine-tuning **Llama 3** and **Mistral** models for engineering-specific tasks.
-- 🏸 Improving my smash on the badminton court!
-
----
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/priyanshu-kumar-b11924278/)" target="_blank">
+  <a href="https://linkedin.com/in/priyanshu-kumar-mnnit" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
   &nbsp;
-  <a href="priyanshukrgupta01@gmail.com">
+  <a href="mailto:priyanshukrgupta01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   &nbsp;
   <a href="https://github.com/kumarpriyank10100">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35">
   </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35">
-  </a>
 </p>
 
 <p align="center">
-  ✨ <i>Open to collaborations in AI for Engineering and FinTech!</i> ✨
+  ✨ <i>Open to collaborations in AI for Engineering and Scalable Web Apps!</i> ✨
 </p>
